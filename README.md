@@ -1,3 +1,12 @@
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%2C%20I'm%20Mohan%20%F0%9F%91%8B&fontSize=50&fontAlignY=38&animation=fadeIn&desc=Data%20%7C%20Dashboards%20%7C%20Analytics&descAlignY=60&descSize=20" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Aspiring+Data+Analyst;I+build+Sales+%26+Call+Center+Dashboards;Turning+raw+data+into+insights;Always+learning%2C+always+building" alt="Typing SVG" />
+</a>
+
+<br/>
 name: Generate Snake Animation
 
 on:
