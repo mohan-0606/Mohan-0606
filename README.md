@@ -7,7 +7,7 @@
 </a>
 
 <br/>
-name: Generate Snake Animation
+name: Mohan.C
 
 on:
   schedule:
